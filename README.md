@@ -1,1 +1,1 @@
-nicedesigndevhiro.netlify.app
+https://nicedesigndevhiro.netlify.app/
