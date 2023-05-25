@@ -150,7 +150,7 @@
                margin: 0 auto;
                    width: 100%;      
               }
-          nav {
+          nav h1, li{
                font-size: 50%;
               }
 }
